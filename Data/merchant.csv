@@ -1,4 +1,4 @@
-id,name,id_merchant_category
+merchant_id,name,merchant_category_id
 1,"Murphy, Heath and Fields",1
 2,Riggs-Adams,1
 3,"Sanders, Parks and Mcfarland",2
